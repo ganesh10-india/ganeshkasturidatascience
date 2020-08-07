@@ -1,5 +1,6 @@
 ### Hello Real World 👋
-
+### - 🔭 I’m currently a STUDENT ! 
+### - 🌱 I’m currently learning Data Science,AI !
 <!--
 **ganeshkasturidatascience/ganeshkasturidatascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
