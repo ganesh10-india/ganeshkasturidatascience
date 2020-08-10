@@ -1,4 +1,5 @@
-### Hello Real World 👋
+# Hello Real World 👋 It's Ganesh Kasturi.
+### Aspiring Data Scientist. Love building things and helping others. Learning something new everyday. Pracitcing clean code.
 ### - 🔭 I’m currently a STUDENT ! 
 ### - 🌱 I’m currently learning Data Science,AI !
 <!--
