@@ -6,15 +6,15 @@
 
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-### Stats
+### Connect with me:
 
-<a href="#stats">
-<img align="center" alt="Prathamesh's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=pratham82&show_icons=true&count_private=true" />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
+<a href="https://dev.to/pratham82">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="35" height="35" >
 </a>
 
-<a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
-</a>
 
 
 <!--
